@@ -31,7 +31,7 @@ This reference is an [IPLD path](https://github.com/ipld/specs/tree/master/ipld#
 
 #### IPLD
 A `Hitag` is nothing but an IPLD object, with few properties of its own.
-If you don't know what IPLD is, check out [this video](https://www.youtube.com/watch?v=Bqs_LzBjQyk) from Juan Benet. Also [IPLD.io](http://IPLD.io)
+If you don't know what IPLD is, check out [this video](https://www.youtube.com/watch?v=Bqs_LzBjQyk) from Juan Benet. Also [IPLD specs](https://github.com/ipld/specs/tree/master/ipld)
 
 #### Properties
 Each hitag have a set of properties. This properties allow to define sofisticated behaviours.
