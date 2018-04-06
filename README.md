@@ -34,27 +34,26 @@ A `Hitag` is nothing but an IPLD object, with few properties of its own.
 If you don't know what IPLD is, check out [this video](https://www.youtube.com/watch?v=Bqs_LzBjQyk) from Juan Benet. Also [IPLD specs](https://github.com/ipld/specs/tree/master/ipld)
 
 #### Properties
-Each hitag have a set of properties. This properties allow to define sofisticated behaviours.
-The hash of this object is a unique identifier of this hash (`UID`)
+Like any IPLD object a `hitag` can have any set of arbitrary properties.
+Some of them are reserved for the system.
 
-    - label : The display name of the `hitag`
-    - maxChildren: Number of allowed children to have.
-    - allowedChildren: An array of `hitag` `UIDs`. Only these hitag can be used.
-    - excludedChildren:  An array of `hitag` `UIDs`. These hitags can't be used.
-    - MandatoryChildren:  An array of `hitag` `UIDs`. These hitags have to be used.
+- canRead : Public keys that are allowed to read the object and its properties, including the children hitags
+- canWrite : Public keys that are allowed to write the object and its properties
+- history :  Hashes of the previous data associated with this hitag
+- hitags : List of all the children hitag
 
-This requires some [canonical](https://en.wikipedia.org/wiki/Canonical_form) format to ensure deterministic `UID`
-Probably there are more elegant ways to define these properties. Ideas?
 
 #### Metadata
-Each hitag may have metadata associated with it. These metadata is concidered non-critical, and is mostly to assist the UX
-    - description
-    - default color
-    - creation timestamp
-    - last modificatio timestamp
-    - last edition timestamp
-    - any property defined by the user
-    ...
+Each hitag may have metadata associated with it. These metadata is concidered non-critical, and is mostly to assist the UX. This metadata is also part of the IPLD object.
+
+Exemples:
+- description
+- default color
+- creation timestamp
+- last modificatio timestamp
+- last edition timestamp
+- any property defined by the user
+...
 
 #### Domains
 
