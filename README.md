@@ -14,7 +14,7 @@ The system should not "lock in" in the user in any way. And this inludes the str
 It should allow for the highest degree of flexibility regarding how the user organizes the information and the relations between each element. It should not be restricted by the interface, or the underling file-system.
 
 ### Data
-In the system we're describing,`data` lives separated from the `information`. What that means is we only take care on how do the information is organized (the realtionships between data).
+In the system we're describing,`data` lives separated from the `information`. What that means is that we take care on how do the information is organized (the realtionships between data).
 The storage and retrival of data is delegated to another system powered by [IPFS](https://ipfs.io). 
 
 So what we will call `data` to refer to an item of the file system, even if in the background is just a reference pointing to some bytes.
@@ -22,24 +22,26 @@ So what we will call `data` to refer to an item of the file system, even if in t
 This reference is an [IPLD path](https://github.com/ipld/specs/tree/master/ipld#what-is-the-ipld-data-model). It allows us to pretty much point to anything.
 
 ### Hitag
-A `Hitag` is a subset of `IPLD`. It is the basic unit we use to organzie content. It stands for "hierachical tag".What this means is you organize data by tagging it with multiple tags. The particularity is that this tag can have other tags inside, and so on. We call these tags `hitag`.
+A `Hitag` is a subset of `IPLD`. It is the basic unit we use to organzie content. It stands for "hierachical tag".
+
+As a user you will assign multiple tags to a piece of data that is relevant to you.
+The particularity is that this tag can have other tags inside and so one, allowing to create very complex data structures. We call these tags `hitag`.
 
 #### IPLD
 A `Hitag` is nothing but an IPLD object, with few properties of its own.
 If you don't know what IPLD is, check out [this video](https://www.youtube.com/watch?v=Bqs_LzBjQyk) from Juan Benet. Also [IPLD specs](https://github.com/ipld/specs/tree/master/ipld)
 
 #### Properties
-Like any IPLD object a `hitag` can have any set of arbitrary properties.
-Some of them are reserved for the system.
+Each `hitag` has  a set of properties the system uses to manage them.  
 
-- canRead : Public keys that are allowed to read the object and its properties, including the children hitags
-- canWrite : Public keys that are allowed to write the object and its properties
-- history :  Hashes of the previous data associated with this hitag
-- hitags : List of all the children hitag
+`canRead` : Public keys that are allowed to read the object and its children hitags. If is not specified it inherits the parent hitag.  
+`canWrite` : Same as canRead, but for defining who can modify the content. It assumes it canRead  
+`history` : [CIDs](https://github.com/ipld/cid) of the previous data associated with this  `hitag` with the same name, specially relevant in the case that the `hitag` contains data.  
+`hitags` : List of all the children
 
 
 #### Metadata
-Each hitag may have metadata associated with it. These metadata is concidered non-critical, and is mostly to assist the UX. This metadata is also part of the IPLD object.
+Each hitag may have metadata associated with it. These metadata is concidered non-critical, and is mostly to assist the UX.
 
 Exemples:
 - description
