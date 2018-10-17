@@ -10,5 +10,5 @@
 1. [Context](https://github.com/arxiu/docs/blob/master/1-context.md) — Conceptual framework and frustrations.
 1. Why
 1. How
-1. What
+1. What — [IPLD Mindmap](https://github.com/arxiu/ipld-mindmap/).
 1. Who
