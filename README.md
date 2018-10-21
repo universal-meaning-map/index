@@ -7,8 +7,8 @@
 ---
 
 ### Index of content
-1. [Context](https://github.com/arxiu/docs/blob/master/1-context.md) — Conceptual framework and frustrations.
-1. Why
+1. [Context and frustrations.](https://github.com/arxiu/docs/blob/master/1-context.md) 
+1. Why and motivations.
 1. How
-1. What — [IPLD Mindmap](https://github.com/arxiu/ipld-mindmap/).
-1. Who
+1. What — [InterPlanetary Mind Map](https://github.com/arxiu/ipld-mindmap/).
+1. Who — [Xavi](https://github.com/arxiu/docs/blob/master/xavi.md), [Daniel](https://github.com/arxiu/docs/blob/master/daniel.md) and you :-)
