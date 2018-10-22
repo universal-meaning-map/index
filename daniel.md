@@ -6,9 +6,9 @@ Some time ago, I worked as an interaction designer, creating physical [interacti
 
 In the last years, I gradually moved from design to artistic practice. Concepts like hacking <sup id="back2">[[2]](#footnote2)</sup> or prototyping appeared and permeated naturally in my persona.
 
-[I built robots](http://armengol-altayo.com/#artificialselfie) to show us how easy it is that we automate our own gestures without realizing it, and [I even performed as a robot for a while](http://armengol-altayo.com/#follow), to experiment with the power of digital devices as behavioural design tools.
+[I built robots](https://vimeo.com/234877889) to show us how easy it is that [we automate our own gestures](http://armengol-altayo.com/#artificialselfie) without realizing it, and [I even performed as a robot for a while](http://armengol-altayo.com/#follow), to experiment with the power of digital devices as behavioural design tools.
 
-I don't consider myself as an expert of anything in particular. I collected experiences and skills in different areas related to technology and human behaviour, and I feel comfortable in the abstract world of concepts and ideas.
+My profile has been always difficult to categorize. I feel comfortable working in the  intangible realm of concepts and ideas, and I don't consider myself an expert in any particular field. Instead of focusing only on one specific topic, I collected experiences and developed knowledge in different areas, giving me in return a wider perspective to draw connections and recognize patterns that experts may have more difficulties to see.
 
 ## Why am I here?
 
