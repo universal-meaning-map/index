@@ -22,7 +22,7 @@ Here a list with some of my personal **motivations and reasons** that make me to
 
 - I know that change is possible. We have access to the tools and knowledge to use them. We can create our own tools and learn what becomes necessary. There is no better time than now.
 
-*A couple of days before start writting this, I was listening a conversation within Sam Harris and Yuval Noah Harari, and at the end during the Q&A, Yuval gave two advices. Know yourself better, and join an organization <sup id="back3">[[3]](#footnote3)</sup>. I think that without knowing it, I am in the path of following both. After a few years of conscious efforts on knowing myself better, I think I am ready to put time and energy to join an organization, or at least this is my way to understand what I am doing with [Xavi](https://github.com/arxiu/docs/blob/master/xavi.md) here.*
+*A couple of days before start writting this, I was listening a conversation within Sam Harris and Yuval Noah Harari, and at the end during the Q&A, Yuval gave two advices. Know yourself better, and join an organization <sup id="back3">[[3]](#footnote3)</sup>. I think that without knowing it, I am in the path of following both. After a few years of conscious efforts on knowing myself better, I think I am ready to put time and energy to join an organization, or at least this is my way to understand what I am doing with [Xavi](https://github.com/interplanetarymindmap/docs/blob/master/xavi.md) here.*
 
 ---
 
