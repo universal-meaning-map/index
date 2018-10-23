@@ -8,7 +8,7 @@ In the last years, I gradually moved from design to artistic practice. Concepts 
 
 [I built robots](https://vimeo.com/234877889) to show us how easy it is that [we automate our own gestures](http://armengol-altayo.com/#artificialselfie) without realizing it, and [I even performed as a robot for a while](http://armengol-altayo.com/#follow), to experiment with the power of digital devices as behavioural design tools.
 
-My profile has been always difficult to categorize. I feel comfortable working in the  intangible realm of concepts and ideas, and I don't consider myself an expert in any particular field. Instead of focusing only on one specific topic, I collected experiences and developed knowledge in different areas, giving me in return a wider perspective to draw connections and recognize patterns that experts may have more difficulties to see.
+My profile has been always difficult to categorize. I feel comfortable working in the  intangible realm of concepts and ideas, and I don't consider myself an expert in any particular field <sup id="back3">[[3]](#footnote3)</sup>. Instead of focusing only on one specific topic, I collected experiences and developed knowledge in different areas, giving me in return a wider perspective to draw connections and recognize patterns that experts may have more difficulties to see.
 
 ## Why am I here?
 
@@ -22,7 +22,7 @@ Here a list with some of my personal **motivations and reasons** that make me to
 
 - I know that change is possible. We have access to the tools and knowledge to use them. We can create our own tools and learn what becomes necessary. There is no better time than now.
 
-*A couple of days before start writting this, I was listening a conversation within Sam Harris and Yuval Noah Harari, and at the end during the Q&A, Yuval gave two advices. Know yourself better, and join an organization <sup id="back3">[[3]](#footnote3)</sup>. I think that without knowing it, I am in the path of following both. After a few years of conscious efforts on knowing myself better, I think I am ready to put time and energy to join an organization, or at least this is my way to understand what I am doing with [Xavi](https://github.com/interplanetarymindmap/docs/blob/master/xavi.md) here.*
+*A couple of days before start writting this, I was listening a conversation within Sam Harris and Yuval Noah Harari, and at the end during the Q&A, Yuval gave two advices. Know yourself better, and join an organization <sup id="back4">[[4]](#footnote4)</sup>. I think that without knowing it, I am in the path of following both. After a few years of conscious efforts on knowing myself better, I think I am ready to put time and energy to join an organization, or at least this is my way to understand what I am doing with [Xavi](https://github.com/interplanetarymindmap/docs/blob/master/xavi.md) here.*
 
 ---
 
@@ -34,6 +34,8 @@ Ok, let's give an example. Imagine that maybe she is a photographer very active 
 
 <a id="footnote2">[2]</a> These are my current national id card, passport and driver's license, [all together](http://armengol-altayo.com/id). <sup>[back](#back2)</sup>
 
-<a id="footnote3">[3]</a> "To get to **know yourself better**, because we are now in the era in which we are hackable animals. [...] Second advice I can give, **join an organization**. If you want to make a real difference in the world it's almost impossible to do it as an individual activist."
+<a id="footnote3">[3]</a> I like the concept of [*antidisciplinary*](https://joi.ito.com/weblog/2014/10/02/antidisciplinar.html) explained by Joi Ito. <sup>[back](#back3)</sup>
 
-Waking Up, podcast by Sam Harris. Episode [#138 - The Edge of Humanity](https://samharris.org/podcasts/138-edge-humanity/). A conversation with Yuval Noah Harari. Transcript 1h33m. <sup>[back](#back3)</sup>
+<a id="footnote4">[4]</a> "To get to **know yourself better**, because we are now in the era in which we are hackable animals. [...] Second advice I can give, **join an organization**. If you want to make a real difference in the world it's almost impossible to do it as an individual activist."
+
+Waking Up, podcast by Sam Harris. Episode [#138 - The Edge of Humanity](https://samharris.org/podcasts/138-edge-humanity/). A conversation with Yuval Noah Harari. Transcript 1h33m. <sup>[back](#back4)</sup>
