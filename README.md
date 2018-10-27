@@ -6,7 +6,7 @@
 
 ## Index of content
 
-1. [Context and frustrations](https://github.com/interplanetarymindmap/index/blob/master/1-context.md) 
+1. [Context and frustrations](https://github.com/interplanetarymindmap/index/blob/master/context.md) 
 1. *Why and motivations* (*)
 1. *How* (*)
 1. What
@@ -14,6 +14,6 @@
     - [Research](https://github.com/interplanetarymindmap/research) — [Related projects and readings](https://github.com/interplanetarymindmap/research/issues/1)
 1. Who
     - *Xavi* (*)
-    - [Daniel](https://github.com/interplanetarymindmap/index/blob/master/daniel.md)
+    - [Daniel](https://github.com/interplanetarymindmap/index/tree/master/daniel)
 
 (*) Empty. Working on it.
