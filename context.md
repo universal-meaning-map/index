@@ -1,14 +1,14 @@
-## 1 — Context
+## Context
 
-Collection of ideas and thoughts to establish the conceptual framework.
+Collection of ideas and thoughts to establish the conceptual framework. In progress. Check [research](https://github.com/interplanetarymindmap/research) repository for more.
 
-#### 1.1 — General
+#### General
 
 1. **Technology** is everywhere and has dramatically changed landscapes and societies <sup id="back1">[[1]](#footnote1)</sup>.
 
 1. Everything is **energy** <sup id="back2">[[2]](#footnote2)</sup> and energy is **information** in its purest sense <sup id="back3">[[3]](#footnote3)</sup>. The brain receives information and translates into a picture called reality.
 
-#### 1.2 — Frustrations 
+#### Frustrations 
 
 1. We are at the Age of **Information**, which is not the same to say that we are living in the Age of **Understanding**. Information has no meaning by itself. 
 
@@ -19,14 +19,6 @@ Collection of ideas and thoughts to establish the conceptual framework.
 1. Anyboy with a device connected to the internet have the possibility to share a subjective point of view of any topic. We don’t have the necessary tools to process all this **massive amount of information** directly, so we access to it through information retreaval systems that help us **filtering** the sign from the noise. The corporations acting as intermediaries have an agenda. <sup id="back7">[[7]](#footnote7)</sup>
 
 1. The **data** you generate online (from mere traces of your navigation history to content created voluntary) **has value**. It is collected and generally used to sell you products and services. This creates a marketplace where you are the product. **You don’t own your data**. <sup id="back8">[[8]](#footnote8)</sup><sup id="back9">[[9]](#footnote9)</sup><sup id="back10">[[10]](#footnote10)</sup>
-
-#### 1.3 — Pending to develop
-
-* relationship between technology and people  
-* relationship between technology and power  
-* understanding information as a technology, is then information a soft power?  
-* individualist society (links to check: [1](https://www.theobjectivestandard.com/issues/2012-spring/individualism-collectivism/), [2](https://www.verywellmind.com/what-are-individualistic-cultures-2795273), [3](https://en.wikipedia.org/wiki/Individualistic_culture))
-* personal context and knowledge that invites us to explore this ideas (relation w/ Maslow pyramid) 
 
 ---
 
