@@ -11,7 +11,7 @@
 1. *How* (*)
 1. What
     - [Mind Map](https://github.com/interplanetarymindmap/mind-map) 
-    - [Research](https://github.com/interplanetarymindmap/research) — Related projects and readings
+    - [Research](https://github.com/interplanetarymindmap/research) — [Related projects and readings](https://github.com/interplanetarymindmap/research/issues/1)
 1. Who
     - *Xavi* (*)
     - [Daniel](https://github.com/interplanetarymindmap/index/blob/master/daniel.md)
