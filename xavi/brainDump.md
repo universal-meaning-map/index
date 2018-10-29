@@ -31,3 +31,13 @@ _This is Xavi's sketch file for ideas, issues, readmes... anything that is not f
 - Context
 
 # How to create links
+
+
+### Node
+We are working towards eliminating this word from our dictionary because it keeps generating confusion. There are a lot of types of nodes, they almost represent the same thing, but they don't.
+
+### Node cluster [OUTDATED]
+One of the [original specs](##-original-specs) was:
+> It needs to work on a global domain. This means that two different mindmaps pointing to the same concept should converge if put together
+
+We call this convergence a `node cluster`. In other words is the set of nodes that are pointing to the same `CID`.
