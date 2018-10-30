@@ -1,14 +1,14 @@
-## Context
+# Context
 
 Collection of ideas and thoughts to establish the conceptual framework. In progress. Check [research](https://github.com/interplanetarymindmap/research) repository for more.
 
-#### General
+### General
 
 1. **Technology** is everywhere and has dramatically changed landscapes and societies <sup id="back1">[[1]](#footnote1)</sup>.
 
 1. Everything is **energy** <sup id="back2">[[2]](#footnote2)</sup> and energy is **information** in its purest sense <sup id="back3">[[3]](#footnote3)</sup>. The brain receives information and translates into a picture called reality.
 
-#### Frustrations 
+### Frustrations 
 
 1. We are at the Age of **Information**, which is not the same to say that we are living in the Age of **Understanding**. Information has no meaning by itself. 
 
