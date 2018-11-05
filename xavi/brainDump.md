@@ -1,9 +1,19 @@
 _This is Xavi's sketch file for ideas, issues, readmes... anything that is not fully developed yet_\
 
-# Do we need `origin`?
-- We use it as ankor point
+# Research
 
-# RDF and semantic triplets
+# Mappers and packers
+Once I realized that we could treat each mind-map node as a [literal definition](https://github.com/interplanetarymindmap/mind-map/issues/2), it was pretty much impossible to me to concieve an alternative usage.
+
+From a user perspective all I do is to keep adding `relations` to concept, and little by little I will end up with a model of my subjective view of the world.
+
+With this in mind the data structure evolved trying to protect this construction.
+
+Dani rapidly raised his hand and argued that if we benefit the mentioned construction, we may be biasing the design towards people that think in a very specific way, therefore going against [our main goal](https://github.com/interplanetarymindmap/mind-map#mind-map-1)
+>
+The idea of a mind-map, a tool that allows organizing information in the way that your brain works and not in a simplified way restricted by a user interface or a data structure.
+
+
 
 # No concensus
 - We want to enhance the mind. And its subjective view.
@@ -22,9 +32,8 @@ _This is Xavi's sketch file for ideas, issues, readmes... anything that is not f
 - No broken documentation. No todos, no WIP. A documentation entry should be be cohesive with itself. While a section with WIP may be necessary
 - Documention should be developed in paralel of an implementation. (Ex: Do not accept a PR without its corresponding documentation)
 - KISS: Can you say the same with less words. Can you use easier words?
+- https://github.com/RichardLitt/standard-readme
 
-# Other projects
-- [Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu)
 
 # Encapsulation
 - The smaller the encapsulation, the more reasuable
@@ -41,3 +50,6 @@ One of the [original specs](##-original-specs) was:
 > It needs to work on a global domain. This means that two different mindmaps pointing to the same concept should converge if put together
 
 We call this convergence a `node cluster`. In other words is the set of nodes that are pointing to the same `CID`.
+
+### Others
+https://en.wikipedia.org/wiki/Ontology_(information_science)
