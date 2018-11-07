@@ -5,15 +5,25 @@ _This is Xavi's sketch file for ideas, issues, readmes... anything that is not f
 # Mappers and packers
 Once I realized that we could treat each mind-map node as a [literal definition](https://github.com/interplanetarymindmap/mind-map/issues/2), it was pretty much impossible to me to concieve an alternative usage.
 
-From a user perspective all I do is to keep adding `relations` to concept, and little by little I will end up with a model of my subjective view of the world.
+From a user perspective all I do is to keep adding `relations` to concept,and little by little I will end up with a model of my subjective view of the world.
 
 With this in mind the data structure evolved trying to protect this construction.
 
-Dani rapidly raised his hand and argued that if we benefit the mentioned construction, we may be biasing the design towards people that think in a very specific way, therefore going against [our main goal](https://github.com/interplanetarymindmap/mind-map#mind-map-1)
->
-The idea of a mind-map, a tool that allows organizing information in the way that your brain works and not in a simplified way restricted by a user interface or a data structure.
+Dani rapidly raised his hand and argued that if we benefit the mentioned construction, we may be biasing the design towards people that think in a very specific way, therefore going against [our main goal](https://github.com/interplanetarymindmap/mind-map#mind-map-1):
+>The idea of a mind-map, a tool that allows organizing information in the way that your brain works and not in a simplified way restricted by a user interface or a data structure.
 
+I argued that a `semantic triple` is a subset of a `definition`. So, with the `definition` construction we can always represent a triplet, while the opposite makes the `definition` prone to the corruption of its integrity.
 
+A paralel argument was that if someone is not interested on defining concepts, and is just looking for an `snapshot` of the state of certain information, then it does not matter that much how the data is represented, because it does not transcend the `snapshot` itself.
+The `definition` instead, cares deeply, because the corruption of a `definition` will effect all the `definitions` that that used the corrupted one.
+
+## Mappers and packers
+
+Last week Ivan, introduced to me to the concept of _mappers and packers_, descrived in Programmer Stone.
+
+Not only is a great framework to help to deal with the people around you, but it matches perfectly to the possible types of `definitions` vs `snapshots` descrived above.
+
+It also re-enforces the idea that a mind-map tool is for mappers. A packer can still use the tool, of course, but it wont make use of its potential.
 
 # No concensus
 - We want to enhance the mind. And its subjective view.
@@ -34,13 +44,11 @@ The idea of a mind-map, a tool that allows organizing information in the way tha
 - KISS: Can you say the same with less words. Can you use easier words?
 - https://github.com/RichardLitt/standard-readme
 
-
 # Encapsulation
 - The smaller the encapsulation, the more reasuable
 - Context
 
 # How to create links
-
 
 ### Node
 We are working towards eliminating this word from our dictionary because it keeps generating confusion. There are a lot of types of nodes, they almost represent the same thing, but they don't.
@@ -53,3 +61,9 @@ We call this convergence a `node cluster`. In other words is the set of nodes th
 
 ### Others
 https://en.wikipedia.org/wiki/Ontology_(information_science)
+
+
+### People to interview
+Programers stone
+RDF
+Juan Benet
