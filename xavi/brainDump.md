@@ -85,13 +85,3 @@ If we take the previous definition, and identity is much more that what you can 
 Indeed they have very different purposes, but a claim on a blockcain or `relation` on our `mind-map` are exactly the same thing. We're just defining idenitites from a much lower level.
 
 We need to think how we can eventually proof, or show to others or view on a specific subject without showing the full tree that conforms a definition. This goes hand in hand with the accessibility layer that we haven't tackled yet, but I hoping to write about it soon enough.
-
-### Provable claims
-
-
-
-They don't care so much whatsover about the perspective of an entity over other mundane stuff that is not required for KYC, reputation or authentication schemes.
-
-### 
-
-Everything discussed in this repo is 
