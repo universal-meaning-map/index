@@ -17,9 +17,13 @@ The `definition` instead, cares deeply, because the corruption of a `definition`
 
 ## Mappers and packers
 
-Last week Ivan, introduced to me to the concept of _mappers and packers_, descrived in Programmer Stone.
+Last week [Ivan](https://github.com/divan), introduced to me to the concept of _mappers and packers_, descrived in [Programmer's Stone](http://www.programmersstone.com/).
 
-Not only is a great framework to help to deal with the people around you, but it matches perfectly to the possible types of `definitions` vs `snapshots` descrived above.
+I believe it to be a mandatory read for anyone working in this project.
+A summary from the same essay:
+> Packing was characterised as a socially conditioned habit of accreting "knowledge packets" that specify "appropriate action", and not examining or reconfiguring the relationships between the knowledge packets. The strategy degenerates into kludging reality to fit the known packets and blaming luck when things go wrong. Mapping on the other hand, involves putting investment into building an internal object model of the world as it is perceived and getting leverage by identifying deep structure. Mapping can be developed by learning techniques that help the exploration of conceptual spaces and help one recognise what it is that one is actually seeing happening in front of one's own eyes, by recognising the deep structure patterns in the goings on. Mappers can respond flexibly and are the only people in a position to propose new approaches. They can learn vastly more quickly than packers, and unless they are seeing deep structure, they are seeing as yet unsolved mysteries. The experience of mappers and packers may be quite different, in exactly the same circumstances.
+
+I believe that the description of `mappers` and `packers` mindsets matches perfectly the constructions of `definitions` and `snapshots` descrived above.
 
 It also makes ovious that a mind-map tool is for mappers. A packer can still use the tool, of course, but it wont make use of its potential.
 
@@ -85,3 +89,21 @@ If we take the previous definition, and identity is much more that what you can 
 Indeed they have very different purposes, but a claim on a blockcain or `relation` on our `mind-map` are exactly the same thing. We're just defining idenitites from a much lower level.
 
 We need to think how we can eventually proof, or show to others or view on a specific subject without showing the full tree that conforms a definition. This goes hand in hand with the accessibility layer that we haven't tackled yet, but I hoping to write about it soon enough.
+
+## Mappers and packers extra links
+https://www.reddit.com/r/NotarySojac/comments/zavp9/welcome_to_reciprocality/
+
+
+## Decentralized OS
+Google's Chrome OS, has moved very fast in recent years, to the point that my main machine is a Google Pixelbook. It works great and I can run Chrome OS, Android and Linux within a unified user interface thanks to its [container support](https://chromium.googlesource.com/chromiumos/docs/+/master/containers_and_vms.md)
+
+Chrome OS is the closed-source version of Chromium OS.
+
+
+Would it make sense to start a distribution of Chromium OS focused on natively enabling decentralized technologies for the end user?
+
+- IPFS support
+- Key managament
+- ENS resolution
+
+https://dappnode.io/
