@@ -1,3 +1,5 @@
+test
+
 # InterPlanetary Mind Map
 
 *We are going to use this repository as the entry point to the project. From here, you will be redirected the corresponding place.*
