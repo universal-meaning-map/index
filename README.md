@@ -1,5 +1,3 @@
-test
-
 # InterPlanetary Mind Map
 
 *We are going to use this repository as the entry point to the project. From here, you will be redirected the corresponding place.*
@@ -9,12 +7,12 @@ test
 ## Index of content
 
 1. [**Context** and frustrations](https://github.com/interplanetarymindmap/index/blob/master/context.md) 
-1. ***Why** and motivations* (*)
-1. ***How*** (*)
-1. **What**
+2. ***Why** and motivations* (*)
+3. ***How*** (*)
+4. **What**
     - [Mind Map](https://github.com/interplanetarymindmap/mind-map) 
     - [Research](https://github.com/interplanetarymindmap/research) — [Related projects and readings](https://github.com/interplanetarymindmap/research/issues/1)
-1. **Who**, introduction to the team
+5. **Who**, introduction to the team
     - *Xavi* (*)
     - [Daniel](https://github.com/interplanetarymindmap/index/tree/master/daniel)
 
