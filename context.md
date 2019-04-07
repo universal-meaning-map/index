@@ -16,7 +16,7 @@ Collection of ideas and thoughts to establish the conceptual framework. In progr
 
 1. "intellectual labour will become increasingly more important relative to physical labour […] Where the price of information distribution is going towards zero with ever **more efficient tools to distribute information** is being invented. […] it is not clear what form markets for information will take with the evolution of the information age." <sup id="back6">[[6]](#footnote6)</sup>
 
-1. Anyboy with a device connected to the internet have the possibility to share a subjective point of view of any topic. We don’t have the necessary tools to process all this **massive amount of information** directly, so we access to it through information retreaval systems that help us **filtering** the sign from the noise. The corporations acting as intermediaries have an agenda. <sup id="back7">[[7]](#footnote7)</sup>
+1. Anybody with a device connected to the internet have the possibility to share a subjective point of view of any topic. We don’t have the necessary tools to process all this **massive amount of information** directly, so we access to it through information retrieval systems that help us **filtering** the sign from the noise. The corporations acting as intermediaries have an agenda. <sup id="back7">[[7]](#footnote7)</sup>
 
 1. The **data** you generate online (from mere traces of your navigation history to content created voluntary) **has value**. It is collected and generally used to sell you products and services. This creates a marketplace where you are the product. **You don’t own your data**. <sup id="back8">[[8]](#footnote8)</sup><sup id="back9">[[9]](#footnote9)</sup><sup id="back10">[[10]](#footnote10)</sup>
 
