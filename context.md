@@ -1,4 +1,4 @@
-![badge](https://img.shields.io/badge/this_document_is_a-aaaaaa.svg?style=flat-square)![badge](https://img.shields.io/badge/work_in_progress-ff0000.svg?style=flat-square)
+![badge](https://img.shields.io/badge/This_document_is_a-aaaaaa.svg?style=flat-square)![badge](https://img.shields.io/badge/work_in_progress-ff0000.svg?style=flat-square)
 
 *Collection of ideas and thoughts to establish the conceptual framework of IPMM.*
 
