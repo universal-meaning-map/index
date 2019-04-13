@@ -1,12 +1,16 @@
 ![badge](https://img.shields.io/badge/This_document_is_a-aaaaaa.svg?style=flat-square)![badge](https://img.shields.io/badge/work_in_progress-ff0000.svg?style=flat-square)
 
-*Collection of ideas and thoughts to establish the conceptual framework of IPMM.*
+*Collection of ideas and thoughts to establish a conceptual framework to discuss the reasons that lead us to start this project.*
+
+<br><br><br>
 
 # Context
 
 1. **Technology** is everywhere and has dramatically changed landscapes and societies <sup id="back1">[[1]](#footnote1)</sup>.
 
 2. Everything is **energy** <sup id="back2">[[2]](#footnote2)</sup> and energy is **information** in its purest sense <sup id="back3">[[3]](#footnote3)</sup>. The brain receives information and translates into a picture called reality.
+
+<br><br><br>
 
 # Frustrations
 
