@@ -14,7 +14,7 @@ Collection of ideas and thoughts to establish the conceptual framework. In progr
 
 1. Brevity in communication is becoming a problem. The quest for being more efficient in an **individual** level, energy wise, is creating a deficit on the same quest from a **collective** perspective <sup id="back4">[[4]](#footnote4)</sup>. But at the same time, “energy and resource **efficiency** is vital at the level of society and the biosphere” <sup id="back5">[[5]](#footnote5)</sup>.
 
-1. "intellectual labour will become increasingly more important relative to physical labour […] Where the price of information distribution is going towards zero with ever **more efficient tools to distribute information** is being invented. […] it is not clear what form markets for information will take with the evolution of the information age." <sup id="back6">[[6]](#footnote6)</sup>
+1. "Intellectual labour will become increasingly more important relative to physical labour […] Where the price of information distribution is going towards zero with ever **more efficient tools to distribute information** is being invented. […] it is not clear what form markets for information will take with the evolution of the information age." <sup id="back6">[[6]](#footnote6)</sup>
 
 1. Anybody with a device connected to the internet have the possibility to share a subjective point of view of any topic. We don’t have the necessary tools to process all this **massive amount of information** directly, so we access to it through information retrieval systems that help us **filtering** the sign from the noise. The corporations acting as intermediaries have an agenda. <sup id="back7">[[7]](#footnote7)</sup>
 
