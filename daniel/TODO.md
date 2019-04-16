@@ -2,7 +2,7 @@
 
 *Daniel's TO DO list. Write me if there is anything here that sounds familiar to you, maybe you can point me to the right direction. Any comment, suggestion, past experience or vision for the future you want to share, please, don't hesitate to contact me **daniel[at]armengol-altayo[dot]com**. Thank you :-)*
 
-## Index of content
+## Table of contents
 
 - [General](#general)
 - [Repositories](#repositories)
@@ -111,7 +111,7 @@
             - concept/mood board. ref expo berlin?
         - investigate [*conceptual graphs*](#conceptual-graphs)
 - differences between mind map and concept map
-    - create an issue just copying what appears on wikipedia, to start the converation?
+    - create an issue just copying what appears on wikipedia, to start the conversation?
     - categorize different diagrams and understand the key values for our data structurea
 - hierarchies vs groups > illustrate examples
     - alice knows bob. bob knows alice. [example 4](https://www.w3.org/TR/2014/REC-n-triples-20140225/).
